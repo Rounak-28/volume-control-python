@@ -1,4 +1,4 @@
-# Volume control using openCV
+# Volume control using OpenCV
 
 This is a python project where you can control media volume using finger gesture.
 
